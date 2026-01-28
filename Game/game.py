@@ -125,4 +125,5 @@ for i in range(num_of_enemies):
        bulletY-=bulletY_changr
    player(playerX,playerY)
    show_score(textX,textY)
+
    pygame.display.update()
